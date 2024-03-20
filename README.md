@@ -12,8 +12,6 @@ can be used to understand fundamentals, explore the larger concept, or simply ge
 
 - **Practical Scripts:** Access a collection of scripts (Rust and Python) designed to automate common security tasks. Many of these might be very simple but focus on improve productivity through the automation of recurring activities. Others are an exploration of various existing scripts through Rust.
 
-- Coming Soon
-
 ## Getting Started
 
 To get started with this repository, follow these simple steps:
