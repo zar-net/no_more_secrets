@@ -1,6 +1,6 @@
 # No More Secrets
 
-# Security Controls & Concepts Exploration
+## Security Controls & Concepts Exploration
 
 Welcome to my repository dedicated to exploring various security controls and concepts. This repository serves as a resource for understanding the practical aspects of cybersecurity through examples and scripts. 
 
