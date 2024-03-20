@@ -12,14 +12,26 @@ This project demonstrates a basic implementation of a blockchain in Rust. It's a
 
 ### Prerequisites
 
-Ensure you have Rust installed on your system. You can download Rust and find installation instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
+Ensure you have Rust installed on your system. 
+
+You can download Rust and find installation instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
 
 ### Running the Project
 
 ```bash
-git clone <repository-url>
+git clone git clone https://github.com/zar-net/no_more_secrets.git
 cd <project-directory>
 cargo run
+```
+
+### Sample Output
+```
+Blockchain: [
+    Block { index: 0, timestamp: 1710936511, message: "Genesis Block", previous_hash: "0" }, 
+
+    Block { index: 1, timestamp: 1710936511, message: "First user message", previous_hash: "0:1710936511:Genesis Block:0" }, 
+    
+    Block { index: 2, timestamp: 1710936511, message: "Second user message", previous_hash: "1:1710936511:First user message:0:1710936511:Genesis Block:0" }]
 ```
 
 ### How It Works

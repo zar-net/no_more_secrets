@@ -4,15 +4,18 @@
 
 Welcome to my repository dedicated to exploring various security controls and concepts. This repository serves as a resource for understanding the practical aspects of cybersecurity through examples and scripts. 
 
-## Overview
-
-TBD.
-
 ## Features
 
-- **Security Control Examples:** Dive into real-world applications of security controls, understand their workings, and see how they're implemented in different scenarios.
-- **Security Concepts Demonstrations:** Explore key security concepts through detailed examples, helping you grasp complex ideas in a tangible way.
-- **Practical Scripts:** Access a collection of scripts designed to automate common security tasks, making your workflow more efficient and effective.
+- **Security Concepts Demonstrations:** Exploration of security concepts, both old and new school through
+source code written in Rust as well as general dialogs. The goal is to break-down ideas into examples that
+can be used to understand fundamentals, explore the larger concept, or simply get a grasp of techno-garble.
+
+- Stream Cipher example
+- Block Chain data structure example
+
+- **Practical Scripts:** Access a collection of scripts (Rust and Python) designed to automate common security tasks. Many of these might be very simple but focus on improve productivity through the automation of recurring activities. Others are an exploration of various existing scripts through Rust.
+
+- Coming Soon
 
 ## Getting Started
 
