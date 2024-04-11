@@ -37,7 +37,7 @@ Ensure you have Rust and Cargo installed on your system. You can download them f
 To run the application in server mode, listening for incoming file transfers, use the `-S` flag:
 
 ```bash
-cargo run -- -S
+cargo run -- -s
 ```
 
 The server will start listening on `0.0.0.0:7878` for incoming connections.
